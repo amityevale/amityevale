@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amityevale
 - 👀 I’m interested in coding challenges
-- 🌱 I’m currently learning Different UI technologies
+- 🌱 I’m currently learning different UI technologies
 - 💞️ I’m looking to collaborate on UI development work.
 - 📫 Reach me on amityevale@gmail.com
 
